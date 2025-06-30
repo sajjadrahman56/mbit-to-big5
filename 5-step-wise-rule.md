@@ -98,4 +98,4 @@ Would you like:
 * A new method that includes **"joint dominance"** when two traits are close?
 * Or to set a **minimum gap (e.g., 0.01)** before deciding?
 
-Let me know. I can customize the logic. 🔧
+ 
